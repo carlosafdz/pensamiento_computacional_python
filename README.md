@@ -1,4 +1,4 @@
-"""
-ejercicio con Python 3.7
+''' 
+ejercicios con Python 3.7
 
-"""
+'''
